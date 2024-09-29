@@ -1,3 +1,10 @@
 # React App
 
-`npm run start`
+## Project setup
+```
+yarn install
+```
+
+```
+yarn start
+```
